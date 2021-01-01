@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kristystallings/repo/Siriusly/siriusly/siriusly.csproj": {}
+    "/Users/kristystallings/repo/Siriusly/siriusly.csproj": {}
   },
   "projects": {
-    "/Users/kristystallings/repo/Siriusly/siriusly/siriusly.csproj": {
+    "/Users/kristystallings/repo/Siriusly/siriusly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kristystallings/repo/Siriusly/siriusly/siriusly.csproj",
+        "projectUniqueName": "/Users/kristystallings/repo/Siriusly/siriusly.csproj",
         "projectName": "siriusly",
-        "projectPath": "/Users/kristystallings/repo/Siriusly/siriusly/siriusly.csproj",
+        "projectPath": "/Users/kristystallings/repo/Siriusly/siriusly.csproj",
         "packagesPath": "/Users/kristystallings/.nuget/packages/",
-        "outputPath": "/Users/kristystallings/repo/Siriusly/siriusly/obj/",
+        "outputPath": "/Users/kristystallings/repo/Siriusly/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kristystallings/.nuget/NuGet/NuGet.Config"
