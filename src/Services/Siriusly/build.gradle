@@ -29,7 +29,11 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 	providedRuntime 'org.springframework.boot:spring-boot-starter-tomcat'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-}
+	implementation 'com.google.guava:guava:29.0-jre'
+	implementation 'io.springfox:springfox-spring-webmvc'
+	implementation 'io.springfox:springfox-swagger2'
+	implementation 'io.springfox:springfox-swagger-ui'
+	}
 
 test {
 	useJUnitPlatform()
