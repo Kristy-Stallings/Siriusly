@@ -2,8 +2,10 @@
 
 
 <br>
-## Getting Started
-
+Create Harry Potter api
+Create lord of the rings api
+Setup web app
+Setup game interactions 
 
 
 
