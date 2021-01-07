@@ -2,8 +2,9 @@
 
 
 <br>
-Create Harry Potter api
-Create lord of the rings api
+Create project structure
+Create APIs
+Get data 
 Setup web app
 Setup game interactions 
 
