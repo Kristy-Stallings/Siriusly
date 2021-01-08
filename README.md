@@ -2,11 +2,11 @@
 
 
 <br>
-Create project structure
-Create APIs
-Get data 
-Setup web app
-Setup game interactions 
+Create project structure <br>
+Create APIs<br>
+Get data <br>
+Setup web app<br>
+Setup game interactions <br>
 
 
 
